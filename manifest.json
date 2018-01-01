@@ -1,0 +1,33 @@
+{
+	"name": "Crypto Alert",
+	"version": "1.0",
+	"description": "Your favorite cryptocurrencies monitored for you.",
+	"manifest_version": 2,
+	"permissions": [
+		"https://min-api.cryptocompare.com/",
+		"https://www.cryptocompare.com/",
+		"storage",
+		"notifications", 
+		"alarms"
+	],
+	"background": {
+		"scripts": ["js/price.js", "js/background.js", "js/options.js"]
+	},
+	"browser_action": {
+		"default_icon": "data/icon.png",
+		"default_popup": "popup.html"
+	},
+	"options_ui": {
+    	// Required.
+    	"page": "options.html",
+    	// Recommended.
+    	"chrome_style": true,
+    	// Not recommended; only provided for backwards compatibility,
+    	// and will be unsupported in a future version of Chrome (TBD).
+    	"open_in_tab": true
+  	},
+  	"web_accessible_resources": [
+  		// Declare any images as "abc.png" that are used with createNotification()
+  		"data/icon.png"
+  	]
+}
