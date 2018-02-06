@@ -1,5 +1,7 @@
 # Crypto Alert
 
+Download the Chrome Extension <a href="https://chrome.google.com/webstore/detail/crypto-alert/ggnnbaldejkhalhkgcmjcabcoecpjdji" title="Download Chrome Extension">here</a>.
+
 Monitor your favorite cryptocurrencies with this Chrome Extension. View the current prices of cryptocurrencies and receive desktop notifications of the prices at regular intervals. 
 The following customization options are provided:
 <ul>
