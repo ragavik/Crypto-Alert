@@ -15,10 +15,6 @@ The following customization options are provided:
 
 Download the code and load the extension by following these <a href="https://developer.chrome.com/extensions/getstarted#unpacked" title="Load the extension">instructions</a>.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 
 * <a href="https://www.cryptocompare.com/api/#introduction" title="CryptoCompare API">CryptoCompare API</a>
