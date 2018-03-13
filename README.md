@@ -13,7 +13,10 @@ The following customization options are provided:
 
 ## Installing
 
-Download the code and load the extension by following these <a href="https://developer.chrome.com/extensions/getstarted#unpacked" title="Load the extension">instructions</a>.
+<ul>
+	<li><b>Option 1:</b> <a href="https://chrome.google.com/webstore/detail/crypto-alert/ggnnbaldejkhalhkgcmjcabcoecpjdji" title="Download Chrome Extension">Download</a> the extension from the Chrome web store.
+	<li><b>Option 2:</b> Download the code and load the extension by following these <a href="https://developer.chrome.com/extensions/getstarted#unpacked" title="Load the extension">instructions</a>.
+</ul>
 
 ## Acknowledgments
 
